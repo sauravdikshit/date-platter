@@ -6,7 +6,7 @@ export class Item {
         this.price = price;
     }
 
-    // Add getter and setter methods if needed
+
     getId() {
         return this.id;
     }
